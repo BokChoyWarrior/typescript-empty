@@ -25,5 +25,7 @@ module.exports = {
     'jest',
   ],
   rules: {
+    "react/jsx-filename-extension": "off",
+    "no-underscore-dangle": "off"
   },
 };
